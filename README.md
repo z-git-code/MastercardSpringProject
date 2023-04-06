@@ -18,3 +18,9 @@ At this point, you should see the anwswer "yes".
 * Java
 * MySQL
 * IDE of your choice
+
+## Code Coverage
+In IntelliJ, "Run 'All Tests' with Coverage" and export the files to the "cityconnection" file. Get the result:
+|  Class%   |  Method% |  Line%  |
+|  ------   |  ------  |  ------ |
+|   100%    |   46.4%  |   51.1% |
