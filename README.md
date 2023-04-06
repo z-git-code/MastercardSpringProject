@@ -10,7 +10,7 @@ This is a Java program that checks if two cities are connected by a direct road 
 4. Select your SQL database and change the configuration in the "application.properties" file .
 5. Run the Spring Boot application.
 6. Navigate to the url in browser: http://localhost:8080/connected?origin=Boston&destination=Newark.
-At this point you should see the anwswer "yes".
+At this point, you should see the anwswer "yes".
 
 ### Prerequisites
 
