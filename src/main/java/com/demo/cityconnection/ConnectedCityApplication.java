@@ -8,4 +8,5 @@ public class ConnectedCityApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConnectedCityApplication.class, args);
 	}
+
 }
